@@ -1,8 +1,10 @@
 ---
-title: "Reproducible Research: Project 1"
+title: 'Reproducible Research: Project 1'
 author: "Esteban Castillo"
 date: "December 16, 2017"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
